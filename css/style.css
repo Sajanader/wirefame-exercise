@@ -16,7 +16,7 @@ nav ul li a{ display: inline-block;
     text-decoration: none;
     color: white;
 }
- #logo {
+    li:first-child {
      background-color: black;
      width: 200px;
      height: 70;
@@ -54,7 +54,7 @@ height:400px;
 
 }
 
-footer #footer{
+footer{
     clear: both;
     background-color: rgb(59, 53, 53);
      width: 100%;
